@@ -67,10 +67,6 @@ class Translator:
         return choice
 
 
-def is_even(num: int):
-    return num % 2 == 0
-
-
 def rotate(translator: Translator, phrase: str, source: str, rounds: int):
     last_translation = phrase
     src = source
