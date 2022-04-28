@@ -47,3 +47,5 @@ Translating to Portuguese (Brazil) => Ei, ouça.
 
 Final translation after 10 rounds => Ei, ouça.
 ```
+
+Each run will choose languages at random from the list of available from Microsoft.
